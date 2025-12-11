@@ -63,8 +63,7 @@ A fully configured VS Code Dev Container including:
 ### Clone the repository
 
 ```sh
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/Harshithsoma/rag.git
 ```
 
 ### Open in Dev Container
