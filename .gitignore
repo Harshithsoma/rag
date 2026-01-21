@@ -1,4 +1,8 @@
-.DS_Store
+rag_env/
+__pycache__/
+*.pyc
+all_articles/
+.env.DS_Store
 node_modules
 .tmp
 npm-debug.log
